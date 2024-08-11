@@ -1,2 +1,1 @@
-# Conflict test
-Some text
+# Some text
