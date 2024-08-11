@@ -1,2 +1,0 @@
-# Conflict test
-Some text
