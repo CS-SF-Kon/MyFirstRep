@@ -1,2 +1,2 @@
-# Merge conflict test
-Some another text
+# Conflict test
+Some text
